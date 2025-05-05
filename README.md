@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is <span style="color:#ff6f61;">Subhrakant Das</span> and I'm a passionate <span style="color:#4db33d;">Java Developer</span>, from <span style="color:#1e90ff;">India</span></h2>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75050&center=false&vCenter=true&width=500&lines=GitHub+hosts+your+code+projects;Collaborate+with+coders+worldwide;Track+code+changes+easily+with+Git;Contribute+via+pull+requests+here;Securely+share+your+code+online" alt="Typing SVG" />
+
 
 ###
 
