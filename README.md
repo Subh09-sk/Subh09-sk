@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Subhrakant Das and I'm a passionate Java Developer, from India</h2>
+<h2 align="left">Hi 👋! My name is <span style="color:#ff6f61;">Subhrakant Das</span> and I'm a passionate <span style="color:#4db33d;">Java Developer</span>, from <span style="color:#1e90ff;">India</span></h2>
+
 
 ###
 
